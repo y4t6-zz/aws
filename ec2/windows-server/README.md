@@ -1,4 +1,5 @@
 # Установка windows server
+## Источник - https://youtu.be/AenrMZs5PNo
 1. Заходим на ec2 https://eu-west-3.console.aws.amazon.com/ec2/v2/home?region=eu-west-3#Home:
 2. Нажимаем `Launch Instance`
 3. Попадаем на шаг 1 - 'Choose AMI'. Выбираем из списка машин Microsoft Windows Server 2016 Base
